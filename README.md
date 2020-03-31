@@ -1,4 +1,4 @@
-![logo](/images/oooh.png?raw=true "OOOH")
+![logo](/images/oooh.png?raw=true "OOOH" | width=300)
 
 # OOOH
 > an event sharing mobile app (iOS)
